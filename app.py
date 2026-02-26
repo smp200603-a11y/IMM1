@@ -20,12 +20,22 @@ except:
     pass
 
 st.subheader("Una pequeña Fábula.")
-st.write('¡Ay! -dijo el ratón-. El mundo se hace cada día más pequeño. Al principio era tan grande que le tenía miedo. '  
-         ' Corría y corría y por cierto que me alegraba ver esos muros, a diestra y siniestra, en la distancia. ' 
-         ' Pero esas paredes se estrechan tan rápido que me encuentro en el último cuarto y ahí en el rincón está '  
-         ' la trampa sobre la cual debo pasar. Todo lo que debes hacer es cambiar de rumbo dijo el gato...y se lo comió. ' 
-         '  '
-         ' Franz Kafka.'
+st.write('Snoopy, el icónico Beagle creado por Charles M. Schulz, debutó el 4 de octubre de 1950 en la tira cómica Peanuts. Conocido por su inmensa imaginación, duerme sobre su caseta, ama la cerveza de raíz y alterna entre ser un escritor o el "As de la Aviación" contra el Barón Rojo, representando una vía de escape fantástica. 
+Erik Store
+Erik Store
+ +3
+Aquí te detallamos los aspectos clave de la historia de Snoopy:
+Orígenes: Nació en la granja de cachorros "Daisy Hill" y tuvo siete hermanos, entre ellos Spike y Belle. Aunque inicialmente fue propiedad de una niña llamada Lila, fue devuelto y finalmente adquirido por Carlitos (Charlie Brown).
+Evolución: En sus inicios (1950), caminaba a cuatro patas y no tenía pensamientos articulados. Con el tiempo, comenzó a caminar erguido (1956) y a mostrar sus pensamientos en globos de diálogo (1952).
+Alter Egos: Su gran imaginación le permite adoptar múltiples personalidades, siendo las más famosas:
+El As de la Aviación: Luchando contra el Barón Rojo.
+Joe Cool: Un estudiante universitario "genial" con gafas de sol.
+Escritor: Intentando escribir la "gran novela americana".
+Amigos y Familia: Su mejor amigo es el pájaro amarillo Emilio (Woodstock), quien apareció en 1966. Tiene claustrofobia, por lo que prefiere dormir en el techo de su caseta en lugar de dentro.
+Legado: La última tira de Peanuts se publicó el 13 de febrero de 2000, poco después de la muerte de Schulz. Snoopy se convirtió en un símbolo de la cultura pop, apareciendo en los globos del desfile de Acción de Gracias de Macy's desde 1968. 
+Erik Store
+Erik Store
+ '
         
         )
            
