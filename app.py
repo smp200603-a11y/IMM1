@@ -35,9 +35,7 @@ Amigos y Familia: Su mejor amigo es el pájaro amarillo Emilio (Woodstock), quie
 Legado: La última tira de Peanuts se publicó el 13 de febrero de 2000, poco después de la muerte de Schulz. Snoopy se convirtió en un símbolo de la cultura pop, apareciendo en los globos del desfile de Acción de Gracias de Macy's desde 1968. 
 Erik Store
 Erik Store
- '
-        
-        )
+ . )
            
 st.markdown(f"Quieres escucharlo?, copia el texto")
 text = st.text_area("Ingrese El texto a escuchar.")
